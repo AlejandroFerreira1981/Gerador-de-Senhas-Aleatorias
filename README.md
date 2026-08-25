@@ -6,14 +6,6 @@ A aplicação permite gerar uma senha aleatória de 14 caracteres e copiá-la pa
 
 ---
 
-## 📸 Preview
-
-> Adicione aqui uma imagem ou GIF do projeto.
-
-![Gerador de Senhas](./print/do/gerador/de/senhas/aleatorias.png)
-
----
-
 ## 🚀 Demonstração
 
 🔗 [Acesse o projeto online](#)
